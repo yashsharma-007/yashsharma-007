@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👨‍💻 About Me
 
-<!--
-**yashsharma-007/yashsharma-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Software Developer** with expertise in **C, C++, Java**, and **Python**.
+- Passionate about **Java** and **Python**, using them to build scalable, high-performance applications.
+- Strong foundation in **system-level programming** with C/C++, while focusing on modern software development practices.
+- Enthusiast for **clean code, algorithms**, and **data structures** to solve complex problems efficiently.
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Java, Python, C, C++
+- **Specializations**:
+  - Object-Oriented Programming (OOP)
+  - Back-End Development (Java, Python)
+  - System Programming (C, C++)
+  - Automation & Scripting (Python)
+  
+## 🌱 What I'm Working On
+
+- Continuous improvement of my skills in **Java** and **Python** for application development.
+- Exploring advanced **data structures** and **algorithmic problem-solving**.
+- Collaborating on open-source projects to give back to the community.
+
+## 📫 Get in Touch
+
+- Always open to **collaborations**, **new challenges**, and innovative projects.
+- Feel free to check out my repositories or reach out!
