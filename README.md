@@ -1,12 +1,16 @@
+### About Me  
+I’m a software developer with a passion for building clean, scalable, and user-friendly solutions. I am not perfect but I am always open to learn new and work till completion . New works don't scare , i see them as a oppurtunity to learn  
 
+### Languages and Frameworks  
+- **Java**: Currently exploring the intricacies of building secure and scalable applications.  
+- **Python**: My go-to for scripting, automation, and web development.  
+- **C**: The language that introduced me to system-level programming.  
+- **C++**: Enhanced my understanding of object-oriented programming and advanced data structures.  
+- **HTML & CSS**: Designing visually appealing and responsive web pages.  
+- **JavaScript**: Adding interactivity and dynamic features to websites.  
+- **Flutter**: Learning to develop cross-platform mobile applications.  
+- **Flask**: Building lightweight and functional web applications.  
+- **Django**: Transitioning from Flask to Django for handling more complex projects.  
 
----
-
-## About Me  
-
-I am a passionate **Software Developer** with a knack for crafting clean, efficient, and scalable solutions using **Java**, **Python**, **C**, and **C++**. With a strong foundation in algorithms, data structures, and system-level programming, I focus on delivering high-performance applications that solve complex challenges.  
-
-I thrive on learning and exploring innovative technologies, and I enjoy collaborating on meaningful projects that make a difference. Let's build something amazing together!  
-
----  
-
+### Interests  
+I love tackling problems, learning cutting-edge technologies, and collaborating on meaningful projects. Let’s create something impactful together!  
