@@ -1,5 +1,5 @@
 ### About Me  
-I’m a software developer with a passion for building clean, scalable, and user-friendly solutions. I am not perfect but I am always open to learn new and work till completion . New works don't scare , i see them as a oppurtunity to learn  
+I’m a software developer with a passion for building clean, scalable, and user-friendly solutions. I am not perfect but I am always open to learn new and work till completion . New works don't scare me , i see them as a oppurtunity to learn  
 
 ### Languages and Frameworks  
 - **Java**: Currently exploring the intricacies of building secure and scalable applications.  
